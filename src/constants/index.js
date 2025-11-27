@@ -1127,8 +1127,7 @@ export const socialMedia = [
   },
   {
     id: "social-media-3",
-    icon: AiFillMail,
-    link: "mailto:work.parthmittal@gmail.com",
+Student web-developer from India    link: "mailto:debsha15@gmail.com",
   },
   {
     id: "social-media-4",
@@ -1144,12 +1143,11 @@ export const socialMedia = [
 
 // Your professional summary
 export const aboutMe = {
-  name: "Parth Mittal",
-  githubUsername: "mittal-parth",
-  tagLine:
-    "MTS @ Oracle | 10x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
+  name: "Dewasish Kumar Sha",
+  githubUsername: "debDataSick",  tagLine:
+    "CFA Level 1 Candidate | 10x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
   intro:
-    "Software Developer from India who is either busy improving his craft or pondering over the next big idea.",
+    "Finance Professional from India specializing in financial data analysis, equity research, and valuation.",
 };
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
