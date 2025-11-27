@@ -1127,8 +1127,9 @@ export const socialMedia = [
   },
   {
     id: "social-media-3",
-Student web-developer from India    link: "mailto:debsha15@gmail.com",
-  },
+      icon: AiOutlineMail,
+      link: "mailto:debsha15@gmail.com",
+    },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
