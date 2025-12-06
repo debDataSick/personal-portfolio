@@ -1146,10 +1146,8 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Dewasish Kumar Sha",
   githubUsername: "debDataSick",  tagLine:
-    "CFA Level 1 Candidate | 10x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
-  intro:
-    "Finance Professional from India specializing in financial data analysis, equity research, and valuation.",
-};
+    "CFA Level 1 Candidate | Finance Professional | Equity Research & Valuation Specialist",  intro:
+    "Passionate finance professional based in Hyderabad, India. Currently pursuing CFA Level 1 & FMVA. Specialized in financial statement analysis, equity research, and corporate actions. Actively seeking core finance & valuation roles in equity research.",};
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
 export const itemsToFetch = 20;
