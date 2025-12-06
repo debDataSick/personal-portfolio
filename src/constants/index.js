@@ -126,9 +126,7 @@ export const navLinks = [
 ];
 
 // Add your past academic experiences here
-export const 130
-  = [
-  {
+export const educationList = [  {
     id: "education-1",
     icon: nitk,
     title: "CFA Level 1 Candidate - Charter Financial Analyst Program",    degree: "Bachelor of Technology",
