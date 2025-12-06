@@ -126,25 +126,23 @@ export const navLinks = [
 ];
 
 // Add your past academic experiences here
-export const educationList = [
+export const 130
+  = [
   {
     id: "education-1",
     icon: nitk,
-    title: "National Institute of Technology Karnataka, Surathkal",
-    degree: "Bachelor of Technology",
-    duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
-    content2: "Minor: Information Technology",
-  },
+    title: "CFA Level 1 Candidate - Charter Financial Analyst Program",    degree: "Bachelor of Technology",
+    duration: "Pursuing - Expected June 2026",    content1: "Major: Electronics and Communication Engineering",
+    content1: "Pursuing certification in investment tools & portfolio management",
+    content2: "Focus areas: Financial Reporting, Quantitative Methods, Economics",  },
   {
     id: "education-2",
     icon: pba,
-    title: "Polkadot Blockchain Academy",
-    degree: "",
-    duration: "May 2024 - June 2024",
-    content1:
-      "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
-  },
+    title: "FMVA - Financial Modeling & Valuation Analyst",    degree: "",
+    degree: "Completed",    content1:
+    duration: "Completed - 2024",
+    content1: "Comprehensive financial modeling & DCF analysis training",
+    content2: "Modules: Valuation, M&A, LBO, Excel Automation, Real Estate Investment Analysis",  },
 ];
 
 // Add your past achievements here for example - rankings in hackathons/events
