@@ -451,17 +451,14 @@ export const skills = [
 // Add your current/past professional work experience here
 export const experiences = [
   {
-    organisation: "Oracle, India",
+    organisation: "Coforge DPA PVT LTD, Hyderabad",    logo: oracle,
     logo: oracle,
-    link: "https://www.oracle.com/in/",
-    positions: [
+    link: "https://www.coforge.com/",    positions: [
       {
-        title: "Member of Technical Staff",
-        duration: "Oct 2025 - Present",
+            title: "Junior Executive - Income Analyst",        duration: "Jun 2025 - Present",
         content: [
           {
-            text: "Working in the Database as a Service Control Plane team for Oracle Cloud Infrastructure.",
-            link: "",
+            text: "Manage financial data for SEI Investments in mutual fund income processing and corporate actions. Analyze and reconcile fund data using TLM, DTCC, ensuring accurate accounting across systems.",            link: "",
           },
         ],
       },
